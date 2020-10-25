@@ -3,7 +3,7 @@ Creating an E-Commerce Website using MERN stack.
 Bibliography:  
 1. ‘React & Node Tutorial- Full E-Commerce In 5 Hours’ Youtube, uploaded by Coding with Basir, 6 May 2020, https://youtu.be/Fy9SdZLBTOo  
 
-2.’Redux For Beginners| React Redux Tutorial.’ Youtube, uploaded by Dev Ed, 22 June 2019, https://youtu.be/CVpUuw9XSjY 
+2.’Redux For Beginners| React Redux Tutorial.’ Youtube, uploaded by Dev Ed, 22 June 2019, https://youtu.be/CVpUuw9XSjY  
 
 3. ‘JavaScript Promises In 10 Minutes’ Youtube, uploaded by Web Dev Simplified, 17 January 2019, https://youtu.be/DHvZLI7Db8E 
 
